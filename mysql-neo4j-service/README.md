@@ -16,8 +16,8 @@ teams and players.
 ## DataServices
 
 This package contains libraries for read, querying and writing to various databases, including:
-- RDBDataTable.py provides functions for accessing MySQL.
-- MongoDBTable (in progress) provides functions for accessing MongoDB.
+- RDBDataTable provides functions for accessing MySQL.
+- MongoDBTable  provides functions for accessing MongoDB.
 - Neo4jDataTable provides functions for Neo4j.
 
 
